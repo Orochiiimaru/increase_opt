@@ -5,4 +5,4 @@
 3. lvextend -L 5G /dev/rootvg/opt
 4. resize2fs /dev/rootvg/opt
 
-Dit is gewoon een stest
+Werkt blijkbaar niet al te goed?
